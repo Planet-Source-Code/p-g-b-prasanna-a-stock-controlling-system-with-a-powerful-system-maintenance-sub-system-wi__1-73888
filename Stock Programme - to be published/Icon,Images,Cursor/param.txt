@@ -1,0 +1,144 @@
+
+frame1.height = 8787.272
+frame1.width = 4367.758
+frame1.TOP = -130.909
+frame1.left = 120.907
+
+
+picture1.width = 3975
+picture1.heitht = 7815
+picture1.top=180
+picture1.left = 120
+
+label1.top = 0
+label2.top = 960
+label3.top = 1800
+label4.top = 2760
+label5.top = 3840
+label6.top = 4800
+label7.top = 5880
+label8.top = 6840
+
+Image12.top = 240
+Image2.top = 1200
+image3.top = 2040
+image4.top = 3120
+image5.top = 4080
+image6.top = 5160
+image7.top = 6120
+image11.top = 7080
+
+line1.x1 = 1440
+line1.x2 = 3720
+line1.y1 = 120
+line1.y2 = 120
+
+line2.x1 = 1560
+line2.x2 = 3720
+line2.y1 = 1080
+line2.y2 = 1080
+
+line3.x1 = 960
+line3.x2 = 3720
+line3.y1 = 1920
+line3.y2 = 1920
+
+line4.x1 = 1440
+line4.x2 = 3720
+line4.y1 = 2880
+line4.y2 = 2880
+
+line5.x1 = 1440
+line5.x2 = 3720
+line5.y1 = 3960
+line5.y2 = 3960
+
+line6.x1 = 1800
+line6.x2 = 3720
+line6.y1 = 4920
+line6.y2 = 4920
+
+line7.x1 = 1800
+line7.x2 = 3720
+line7.y1 = 6000
+line7.y2 = 6000
+
+line8.x1 = 1320
+line8.x2 = 3720
+line8.y1 = 6960
+line8.y2 = 6960
+
+cmdBookIssue.top = 240
+cmdBooksReceipt.top = 1200
+cmdReports.top = 2040
+cmdCurStock.top = 3000
+cmdBooksDetails.top = 4080
+cmdMasterInfo.top = 5160
+cmdPassword.top = 6120
+cmdRecordsDelete.top = 7080
+
+frame3.top = 0
+frame3.left = 4594.458
+frame3.width =7390.428 
+frame3.height = 1194.545
+
+picture4.top = 120
+picture4.left = 120
+picture4.width = 7095
+picture4.height = 735
+
+image13.top = -80
+image13.left = 2400
+
+image10.top = 0
+image10.left = 4800
+
+cmdExit.top = 20
+cmdExit.left = 5520
+
+cmdLogOffUser.top = 20
+cmdLogOffUser.left = 3120
+
+frame2.top = 1178.182
+frame2.left = 4594.458
+frame2.width = 7390.428
+frame2.height = 7478.182
+
+image15.left = 3960
+image15.top = 240
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
